@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UITest</string>
+    <string name="any_sample_text">Any sample text</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="switch_text">Switch</string>
+    <string name="check_box">Check Box</string>
+</resources>
